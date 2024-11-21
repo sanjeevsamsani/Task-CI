@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        label 'my-agent-label' // Replace 'my-agent-label' with your specific agent's label
+        label 'lin3' // Replace 'my-agent-label' with your specific agent's label
     }
 
     stages {
